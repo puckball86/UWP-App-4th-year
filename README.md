@@ -1,5 +1,5 @@
 
-**Interval Time Training App **
+**Interval Timer App **
 ===================
 
 **Student:Dara Starr**<br>
